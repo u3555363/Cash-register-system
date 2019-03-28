@@ -1,1 +1,1 @@
-# Table-management
+# Cash register system
