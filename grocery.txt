@@ -1,0 +1,43 @@
+Type		ID	Name		Price	Time(s)
+Snack		0001	Chips		8.0	7
+Snack		0002	Biscuit		5.5	5
+Snack		0003	Cheese		12.0	7
+Snack		0004	Candy		4.4	5
+Snack		0005	Choco		7.5	6
+Snack		0006	Gum		4.7	4
+Snack		0007	Icecream	9.9	6
+Snack 		0008	Sausage		6.3	7
+Snack		0009	Mint		12.0	6
+Food		0011	Sandwich	10.9	7
+Food		0012	Chicken		35.1	10
+Food		0013	Beef		40.6	10
+Food		0014	Fish		30.2	11
+Food		0015	Pork		28.5	10
+Food		0016 	Sushi		70.4	12
+Food		0017	Rice		60.2	15
+Food		0018	Noodle		20.8	9
+Food		0019	Oil		50.4	12
+Drink		0021	Tea		7.0	6
+Drink		0022	Water		5.2	6
+Drink		0023	Cola		7.4	8
+Drink		0024	Soda		10.1	7
+Drink		0025	Coffee		6.5	5
+Drink		0026	Juice		8.5	8
+Drink		0027	Wine		108.8	7
+Drink		0028	Milk		5.1	6	
+Daily		0031	Tissue		3.0	4
+Daily		0032	Pen		6.8	5
+Daily		0033	Shampoo		50.5	13
+Daily		0034	Soap		24.2	10
+Daily		0035	Bleach		40.3	9
+Medicine	0041	FaceMask	4.1	5
+Medicine	0042	Bandage		15.9	6
+Medicine	0043	Panadol		65.0	6
+Medicine	0044	AcneGel		54.3	5
+Medicine	0045	Supplement	198.1	7
+
+
+
+
+
+	

@@ -1,0 +1,10 @@
+Class		Income	Favor
+Kid		20	Snack/Drink
+Teen		35	Snack/Food/Drink
+Student		50	Snack/Drink
+Couple		80	Snack/Food/Drink
+Worker		200	All
+Housewife	100	All
+Family		300	All
+Eldery		150	Medicine/Food
+
